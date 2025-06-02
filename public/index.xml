@@ -1,19 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Northwestern CS Department</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Northwestern CS Department</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jun 2025 17:29:04 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>About Me</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 02 Jun 2025 17:29:04 -0500</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;hello-from-me&#34;&gt;Hello from me!&lt;/h2&gt;
+&lt;p&gt;Welcome to CS Major at Northwestern! Hope you will find some useful information on this website. A little bit about me:&lt;/p&gt;
+&lt;p&gt;I’m a computer science student with a strong interest in both the theoretical and practical sides of the field. I enjoy solving problems through code, working on hands-on projects, and exploring how technology can be applied to different areas.&lt;/p&gt;
+&lt;p&gt;I am a sophomore at Weinberg with a MLDS minor. I am doing research in CS (topic: machine learning). I also plan to study abroad in Ireland.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CS &#43; X explained (from McCormick site)</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Mon, 02 Jun 2025 17:29:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>&lt;h2 id=&#34;cs--x-explained-from-mccormick-site&#34;&gt;CS + X explained (from McCormick site)&lt;/h2&gt;
+&lt;p&gt;The Computer Science + X (CS+X) initiative at Northwestern University explodes the possibilities of interdisciplinary research. Our goal is to foster transformational relationships between computer science and intersecting fields and establish connections across the University.&lt;/p&gt;
+&lt;p&gt;Through CS+X, students and faculty are expanding the boundaries of computer science and can potentially spark entirely new fields of study. Undergraduate students from departments throughout the university connect computing to their academic interests via courses relevant to non-majors. The Northwestern CS PhD program is designed to encourage students to pursue broad research interests and collaborate with advisors both in CS and other disciplines. CS faculty build interdisciplinary research teams spanning schools and departments and collaborate with external industry and partners.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CS Concentrations (by Sara Sood)</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Mon, 02 Jun 2025 17:29:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;h2 id=&#34;cs-concentrations-by-sara-sood&#34;&gt;CS Concentrations (by Sara Sood)&lt;/h2&gt;
+&lt;p&gt;Many of you have asked how to declare that concentration, so I wanted to share this information with everyone.&lt;/p&gt;
+&lt;p&gt;For Weinberg CS majors, you will simply need to fill out the major declaration form again, and list your concentration on that form. Once you’ve completed the form, you can send it to Yas Klenk (&lt;a href=&#34;mailto:yassaman.klenk@northwestern.edu&#34;&gt;yassaman.klenk@northwestern.edu&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;For McCormick CS majors, you can now declare your concentration in MAS. Here are the steps.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
