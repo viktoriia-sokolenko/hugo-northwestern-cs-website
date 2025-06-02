@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Northwestern CS Department'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
