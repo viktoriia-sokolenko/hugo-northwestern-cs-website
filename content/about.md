@@ -7,4 +7,4 @@ The **Computer Science major at Northwestern University** combines solid technic
 
 Many CS classes are project-based, allowing students to build real applications and work in teams. Outside the classroom, students can join research groups, tech clubs like DISC and IEEE, or participate in hackathons. The program encourages both theoretical understanding and hands-on experience, and many students go on to work in software engineering, research, or graduate school. Northwestern also supports interdisciplinary work, making it possible to apply CS skills in fields like journalism, music, and biology.
 
-![Northwestern Commencement](images/northwestern.jpg)
+![Northwestern Commencement](/images/northwestern.jpg)
