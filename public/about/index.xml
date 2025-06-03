@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Northwestern CS Department</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Northwestern CS Department</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Computer Science major at Northwestern University&lt;/strong&gt; combines solid technical training with opportunities to explore other fields. Students learn core topics such as programming, algorithms, systems, artificial intelligence, and software development. The program offers both BA and BS degrees, with the BA housed in the Weinberg College of Arts and Sciences and the BS in the McCormick School of Engineering. Students can also declare concentrations: &lt;em&gt;Artificial Intelligence, Systems, Security and Privacy, Software Engineering and Programming Languages, Robotics, Computer Hardware and Architecture, Human-Computer Interaction&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
