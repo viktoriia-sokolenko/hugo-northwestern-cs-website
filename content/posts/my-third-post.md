@@ -13,7 +13,7 @@ For McCormick CS majors, you can now declare your concentration in MAS. Here are
 - Change catalog year to 2024-25 by May 1st (if you are a spring 25 grad).
 - The Undergraduate Engineering Office updates major and catalog changes on Fridays.
 - Once the catalog change is visible in MAS, look for the Concentration Declaration on the Dashboard
-- Declare the concentration by May 23rd (if you are a spring 25 grad) by selecting a concentration, adding 4 approved classes, and submitting the form
+- Declare the concentration by *May 23rd* (if you are a spring 25 grad) by selecting a concentration, adding 4 approved classes, and submitting the form
 - Please be sure to only use specific Special Topics courses (396/397) that are approved for the specific concentration
 - If you are a BS/MS student, please remember that courses intended for the MS program cannot be used toward a concentration  
 - Once approved by the CS department, you will see a Concentration tab in MAS, like the Theme tab.
