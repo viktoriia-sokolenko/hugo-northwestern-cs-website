@@ -2,6 +2,20 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Northwestern CS Department'
 theme = 'PaperMod'
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 2
+
+[[menu.main]]
+  name = "Curriculum"
+  url = "/class-requirements"
+  weight = 2
 [caches]
     [caches.images]
         dir = ':cacheDir/images'

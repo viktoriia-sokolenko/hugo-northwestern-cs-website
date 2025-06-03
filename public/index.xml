@@ -25,7 +25,11 @@
       <guid>http://localhost:1313/posts/second-post/</guid>
       <description>&lt;h2 id=&#34;cs--x-explained-from-mccormick-site&#34;&gt;CS + X explained (from McCormick site)&lt;/h2&gt;
 &lt;p&gt;The Computer Science + X (CS+X) initiative at Northwestern University explodes the possibilities of interdisciplinary research. Our goal is to foster transformational relationships between computer science and intersecting fields and establish connections across the University.&lt;/p&gt;
-&lt;p&gt;Through CS+X, students and faculty are expanding the boundaries of computer science and can potentially spark entirely new fields of study. Undergraduate students from departments throughout the university connect computing to their academic interests via courses relevant to non-majors. The Northwestern CS PhD program is designed to encourage students to pursue broad research interests and collaborate with advisors both in CS and other disciplines. CS faculty build interdisciplinary research teams spanning schools and departments and collaborate with external industry and partners.&lt;/p&gt;</description>
+&lt;p&gt;Through CS+X, students and faculty are expanding the boundaries of computer science and can potentially spark entirely new fields of study. Undergraduate students from departments throughout the university connect computing to their academic interests via courses relevant to non-majors. The Northwestern CS PhD program is designed to encourage students to pursue broad research interests and collaborate with advisors both in CS and other disciplines. CS faculty build interdisciplinary research teams spanning schools and departments and collaborate with external industry and partners.
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/dNo_BVzNb28?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>CS Concentrations (by Sara Sood)</title>
@@ -34,8 +38,38 @@
       <guid>http://localhost:1313/posts/my-third-post/</guid>
       <description>&lt;h2 id=&#34;cs-concentrations-by-sara-sood&#34;&gt;CS Concentrations (by Sara Sood)&lt;/h2&gt;
 &lt;p&gt;Many of you have asked how to declare that concentration, so I wanted to share this information with everyone.&lt;/p&gt;
-&lt;p&gt;For Weinberg CS majors, you will simply need to fill out the major declaration form again, and list your concentration on that form. Once you’ve completed the form, you can send it to Yas Klenk (&lt;a href=&#34;mailto:yassaman.klenk@northwestern.edu&#34;&gt;yassaman.klenk@northwestern.edu&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;For Weinberg CS majors, you will simply need to fill out the major declaration form again, and list your concentration on that form. Once you’ve completed the &lt;a href=&#34;https://weinberg.northwestern.edu/undergraduate/major-minor/choosing-declaring.html&#34;&gt;form&lt;/a&gt;, you can send it to Yas Klenk (&lt;a href=&#34;mailto:yassaman.klenk@northwestern.edu&#34;&gt;yassaman.klenk@northwestern.edu&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;For McCormick CS majors, you can now declare your concentration in MAS. Here are the steps.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;The Computer Science major at Northwestern University combines solid technical training with opportunities to explore other fields. Students learn core topics such as programming, algorithms, systems, artificial intelligence, and software development. The program offers both BA and BS degrees, with the BA housed in the Weinberg College of Arts and Sciences and the BS in the McCormick School of Engineering. Students can also declare concentrations: Artificial Intelligence, Systems, Security and Privacy, Software Engineering and Programming Languages, Robotics, Computer Hardware and Architecture, Human-Computer Interaction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Class requirements</title>
+      <link>http://localhost:1313/class-requirements/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/class-requirements/</guid>
+      <description>&lt;h1 id=&#34;all-the-classes-you-need-to-take-as-a-cs-major-at-northwestern&#34;&gt;All the classes you need to take as a CS major at Northwestern&lt;/h1&gt;
+&lt;h2 id=&#34;core-courses-6-units&#34;&gt;Core Courses (6 units)&lt;/h2&gt;
+&lt;p&gt;Core courses provide an introduction to computer science.&lt;/p&gt;
+&lt;h3 id=&#34;comp_sci-111-0&#34;&gt;COMP_SCI 111-0&lt;/h3&gt;
+&lt;p&gt;Fundamentals of Computer Programming&lt;/p&gt;
+&lt;h3 id=&#34;comp_sci-150-0&#34;&gt;COMP_SCI 150-0&lt;/h3&gt;
+&lt;p&gt;Fundamentals of Computer Programming 1.5&lt;/p&gt;
+&lt;h3 id=&#34;comp_sci-211-0&#34;&gt;COMP_SCI 211-0&lt;/h3&gt;
+&lt;p&gt;Fundamentals of Computer Programming II&lt;/p&gt;
+&lt;h3 id=&#34;comp_sci-212-0&#34;&gt;COMP_SCI 212-0&lt;/h3&gt;
+&lt;p&gt;Math Foundations of CS Part 1: Discrete Math for CS&lt;/p&gt;
+&lt;h3 id=&#34;comp_sci-213-0&#34;&gt;COMP_SCI 213-0&lt;/h3&gt;
+&lt;p&gt;Introduction to Computer Systems&lt;/p&gt;
+&lt;h3 id=&#34;comp_sci-214-0&#34;&gt;COMP_SCI 214-0&lt;/h3&gt;
+&lt;p&gt;Data Structures &amp;amp; Algorithms&lt;/p&gt;
+&lt;h2 id=&#34;breadth-courses-5-units&#34;&gt;Breadth Courses (5 units)&lt;/h2&gt;
+&lt;p&gt;Computer science majors must take one course from each of the following areas: &lt;strong&gt;Theory, Systems, Artificial Intelligence, Interfaces, and Software Development and Programming Languages&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
